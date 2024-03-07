@@ -4,6 +4,5 @@ function skillMember() {
     age: 30,
     skills: ['JavaScript', 'React', 'Node']
   };
-
   return member;
 }
